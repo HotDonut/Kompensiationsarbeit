@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace NumberGuesser
+namespace NumberGuesser.ViewModels
 {
     public class RelayCommand : ICommand
     {
